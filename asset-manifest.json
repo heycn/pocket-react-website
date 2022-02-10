@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/pocket-react-website/static/css/main.4b7c3031.css",
+    "main.js": "/pocket-react-website/static/js/main.a9b70a27.js",
+    "index.html": "/pocket-react-website/index.html",
+    "main.4b7c3031.css.map": "/pocket-react-website/static/css/main.4b7c3031.css.map",
+    "main.a9b70a27.js.map": "/pocket-react-website/static/js/main.a9b70a27.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4b7c3031.css",
+    "static/js/main.a9b70a27.js"
+  ]
+}
